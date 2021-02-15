@@ -59,8 +59,8 @@
 # Martin Trigaux, 2020
 # guohuadeng <guohuadeng@hotmail.com>, 2020
 # 稀饭~~ <wangwhai@qq.com>, 2020
-# Jeffery CHEN Fan <jeffery9@gmail.com>, 2021
 # Daniel Yang <daniel.yang.zhenyu@gmail.com>, 2021
+# Jeffery CHEN Fan <jeffery9@gmail.com>, 2021
 # liAnGjiA <liangjia@qq.com>, 2021
 # 
 msgid ""
@@ -27836,7 +27836,7 @@ msgstr "TGZ 格式: 将多个PO(T) 文件打包为单个存档"
 #. module: base
 #: model:ir.model.fields.selection,name:base.selection__ir_mail_server__smtp_encryption__starttls
 msgid "TLS (STARTTLS)"
-msgstr "TLS (StartTLS)"
+msgstr "TLS (STARTTLS)"
 
 #. module: base
 #: model:ir.module.module,shortdesc:base.module_auth_totp_portal
@@ -31529,7 +31529,7 @@ msgstr "选择项"
 #. module: base
 #: model:ir.module.module,shortdesc:base.module_snailmail_account
 msgid "snailmail_account"
-msgstr "snailmail_账户"
+msgstr "snailmail_account"
 
 #. module: base
 #: model_terms:ir.ui.view,arch_db:base.view_users_form_simple_modif
